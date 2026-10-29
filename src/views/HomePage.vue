@@ -1,8 +1,8 @@
 <template>
   <ion-page>
-    <h1>Las cuatro operaciones</h1>
+    <h1>Las chhhuatro operaciones</h1>
     </ion-content>
-    <h2>suma :{{numero1+ numero2}} </h2>
+    <h2>suma :{{numero1git+ numero2}} </h2>
      <h2>resta :{{numero1+ numero2}} </h2>
      <h2>division :{{numero1+numero2}} </h2>
      <<h2>multiplicacion:{{numero1+ numero2}} </h2>
