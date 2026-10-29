@@ -1,28 +1,23 @@
 <template>
   <ion-page>
-    <ion-header :translucent="true">
-      <ion-toolbar>
-        <ion-title>Blank</ion-title>
-      </ion-toolbar>
-    </ion-header>
-
-    <ion-content :fullscreen="true">
-      <ion-header collapse="condense">
-        <ion-toolbar>
-          <ion-title size="large">Blank</ion-title>
-        </ion-toolbar>
-      </ion-header>
-
-      <div id="container">
-        <strong>Ready to create an app?</strong>
-        <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
-      </div>
+    <h1>Las cuatro operaciones</h1>
+    </ion-content>
+    <h2>suma :{{numero1+ numero2}} </h2>
+     <h2>resta :{{numero1+ numero2}} </h2>
+     <h2>division :{{numero1+numero2}} </h2>
+     <<h2>multiplicacion:{{numero1+ numero2}} </h2>
     </ion-content>
   </ion-page>
 </template>
 
 <script setup lang="ts">
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/vue';
+import {ref} from 'vue';
+const ;
+const ;
+console.long;
+console.long;
+console.long;
 </script>
 
 <style scoped>
